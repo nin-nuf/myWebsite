@@ -6,13 +6,46 @@
     <title>HIM</title>
     <meta name="description" content="My Info">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="main.css" type="text/css">
+    <link rel="stylesheet" href="index.css" type="text/css">
 </head>
 
 <body>
-<div class="container">
-    <h1>nino.nufrio</h1>
-    <div class="hexagon"></div>
+
+    <div class="grid">
+        <div class="hexagon"> <h1>nino.nufrio</h1></div>
+        <div class="hexagon">
+            <img src="Hexagon.svg">
+        </div>
+        <div class="hexagon">
+            <img src="Hexagon.svg">
+        </div>
+        <div class="hexagon">
+            <img src="Hexagon.svg">
+        </div>
+        <div class="hexagon">
+            <img src="Hexagon.svg">
+        </div>
+        <div class="hexagon">
+            <img src="Hexagon.svg">
+        </div>
+        <div class="hexagon">
+            <img src="Hexagon.svg">
+        </div>
+        <div class="hexagon">
+            <img src="Hexagon.svg">
+        </div>
+        <div class="hexagon">
+            <img src="Hexagon.svg">
+        </div>
+        <div class="hexagon">
+            <img src="Hexagon.svg">
+        </div>
+        <div class="hexagon">
+            <img src="Hexagon.svg">
+        </div>
+        <div class="hexagon">
+            <img src="Hexagon.svg">
+        </div>
 </div>
 
 </body>
